@@ -1,0 +1,30 @@
+@media (max-width: 991px) {
+  html {
+    font-size: 90%;
+  }
+
+  h1 {
+    font-size: 30px;
+  }
+
+  h2 {
+    font-size: 22px;
+  }
+
+  .offset {
+    margin-left: auto;
+  }
+
+  .offset h2 {
+    margin-top: 15px
+  }
+
+  .offset .Jdeux {
+    text-align: right;
+    margin-top: 10px;
+  }
+
+  .div_programmation .glitch {
+    margin-bottom: 40px;
+  }
+}
